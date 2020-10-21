@@ -10,16 +10,16 @@
 ## Description 
 Application that can be used to write, save, and delete notes.
 ####Home page
-![Home](./develop/public/assets/img/home.png)
+![Home](Develop/public/assets/img/home.png)
 
 ####Note page
-![Note Page](./develop/public/assets/img/note_page.png)
+![Note Page](Develop/public/assets/img/note_page.png)
 
 ####Save new note 
-![Save Note](./develop/public/assets/img/save_note.png)
+![Save Note](Develop/public/assets/img/save_note.png)
 
 ####Show application
-![Video Note Take](./develop/public/assets/img/video_app_localhost.gif)
+![Video Note Take](Develop/public/assets/img/home.pngvideo_app_localhost.gif)
 
 
 
