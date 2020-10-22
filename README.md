@@ -1,10 +1,10 @@
 # Note_Taker
 
-#Table of Contents:
+##Table of Contents:
   - [Description](#description)
   - [Installation](#installation)
   - [Run](#run)
-  - [Heroku](#Heroku)
+  - [Deploy in Heroku](#deploy)
   - [Question](#question) 
 
 ## Description 
@@ -25,13 +25,18 @@ Application that can be used to write, save, and delete notes.
 
 
 ## Installation 
-`npm install`
-`package.json`
+```
+npm install
+package.json
+```
 
 ## Run
-`node server.js`
+- Terminal : `node server.js`
+- Browser : `localhost:8080/`
 
-## Heroku
+<a name="deploy"></a>
+
+## Deploy in Heroku 
 - [Heroku_link](https://note-taker-adriana.herokuapp.com)
 
 ##  Question 
