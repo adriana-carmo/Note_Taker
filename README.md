@@ -19,7 +19,7 @@ Application that can be used to write, save, and delete notes.
 `Save new note` 
 ![Save Note](Develop/public/assets/img/save_note.png)
 
-`Show application`
+`Application presentation video`
 ![Video Note Take](Develop/public/assets/img/video_app_localhost.gif)
 
 
