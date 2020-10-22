@@ -1,6 +1,6 @@
 # Note_Taker
 
-##Table of Contents:
+## Table of Contents:
   - [Description](#description)
   - [Installation](#installation)
   - [Run](#run)
